@@ -7,7 +7,7 @@ CUSTOMER CAN SEE THEIR cart details ans transaction details
 Technologies Used
  Database: mysql Other
  JavaScript Backend Framework: NodeJS and NPM
- Validator Tools: MS Visual Code, MS Command Panel,postman
+ Validator Tools: MS Visual Code, MS Command Panel,postman, XAMPP
 
 Libraries included (Server Side):
 Express
